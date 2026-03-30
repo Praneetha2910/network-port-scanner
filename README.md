@@ -22,6 +22,8 @@ This project is a Network Port Scanner with a graphical user interface built usi
    python portscanergui.py
 
 ## 📊 Output
+<img width="893" height="674" alt="Screenshot 2026-03-30 201537" src="https://github.com/user-attachments/assets/69796eaa-8bb0-4beb-8031-81fddd6b9048" />
+
 The tool scans the target and shows open ports such as:
 - Port 22 (SSH)
 - Port 80 (HTTP)
